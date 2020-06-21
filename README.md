@@ -4,5 +4,5 @@ I decided to increase my knowledge in web development because, you know, life is
 
 The link from the course and course materials are:
 
-[HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
-[Github Repository](https://github.com/jhu-ep-coursera/fullstack-course4.git/)
+ * [HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
+ * [Github Repository](https://github.com/jhu-ep-coursera/fullstack-course4.git/)
