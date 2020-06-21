@@ -1,6 +1,6 @@
 # HTML-CSS-JS
 
-I decided to increase my knowledge in web development because, you know, life is hard, when I took this during my studies in university I didn't consider this to be important but now I need it for some projects and ideas I have.
+I decided to increase my knowledge in web development because, you know, life is hard. When I took this during my studies in university I didn't consider this to be important but now I need it for some projects and ideas I have.
 
 The link from the course and course materials are:
 
