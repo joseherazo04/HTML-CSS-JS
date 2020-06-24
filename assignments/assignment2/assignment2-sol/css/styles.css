@@ -13,12 +13,6 @@ h1 {
     font-size: 1.75em;
 }
 
-div.container {
-    background-color: #00FFFF;
-    position: relative;  
-    clear: bottom;
-}
-
 section.card{
     border: 1px solid black;
     position: relative;
