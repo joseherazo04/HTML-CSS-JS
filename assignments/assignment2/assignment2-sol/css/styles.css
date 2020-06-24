@@ -2,7 +2,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 5px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
 }
@@ -13,19 +13,18 @@ h1 {
     font-size: 1.75em;
 }
 
-div#container {
+div.container {
     background-color: #00FFFF;
     position: relative;  
+    clear: bottom;
 }
 
 section.card{
-    margin: 10px;
     border: 1px solid black;
     position: relative;
-}
-
-section{
-    margin-top: 25px;
+    padding: left right bottom 5px;
+    padding-top: 30px;
+    background-color: lightgray;
 }
 
 p.title {
