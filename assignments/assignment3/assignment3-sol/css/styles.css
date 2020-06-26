@@ -54,6 +54,7 @@ body {
 /*MAIN CONTENT STYLE*/
 #main-content h2 {
     color: white;
+    margin-bottom: 25px;
 }
 
 .text-section {
