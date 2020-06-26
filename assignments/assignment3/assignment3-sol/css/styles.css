@@ -52,9 +52,11 @@ body {
     border-color: orangered;
 }
 /*MAIN CONTENT STYLE*/
+#main-content {
+    margin-bottom: 50px;
+}
 #main-content h2 {
     color: white;
-    margin-bottom: 25px;
 }
 
 .text-section {
